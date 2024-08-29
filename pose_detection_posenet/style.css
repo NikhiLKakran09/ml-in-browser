@@ -1,0 +1,14 @@
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    padding:2rem 25vw;
+}
+.container-1 {
+    float: left;
+    padding-right: 5rem;
+
+}
+.container-2 {
+    float:right;
+}
